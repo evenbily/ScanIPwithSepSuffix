@@ -1,5 +1,4 @@
-# ScanIPwithSepSuffix
-Scan IP with .251 suffix in China
+Scan IP with .251 suffix
 
 Generate IPs with .251 in China, then you can scan them with Zmap.
 
