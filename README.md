@@ -1,6 +1,6 @@
-Scan IP with .251 suffix
+Scan IP with .250 suffix
 
-Generate IPs with .251 in China, then you can scan them with Zmap.
+Generate IPs with .250 in China, then you can scan them with Zmap.
 
 First need install `ipaddr` package of python.
 
@@ -16,4 +16,4 @@ Zmap scan command is:
 
 Done !
 
-PS: IP range of China Come from [https://github.com/17mon/china_ip_list](https://github.com/17mon/china_ip_list)
+IP range of China Come from [https://github.com/17mon/china_ip_list](https://github.com/17mon/china_ip_list)
