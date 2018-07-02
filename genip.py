@@ -4,7 +4,7 @@
 import os
 import sys
 import ipaddr
-#重新设置系统编码
+
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
@@ -22,7 +22,7 @@ def parser():
         for ip in ipNet:
             strip = str(ip)
             #print strip
-            if strip.endswith('.251'):
+            if strip.endswith('.250'):
                 f_result.writelines(strip+"\n")
                 f_result.flush()
                 #print strip
